@@ -340,7 +340,8 @@ header {
 }
 
 .form-body {
-    background-color: #FFFFFF;
+/*     background-color: #FFFFFF; */
+    background-color: #FFFF00;
     padding: 78px 64px;
     width: 100%;
     max-width: 760px;
